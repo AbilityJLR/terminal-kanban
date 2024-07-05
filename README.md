@@ -4,7 +4,7 @@
 
 TerminalKanban brings the power of visual task management to your command line, making project coordination both productive and delightful! 💖
 
-## Features
+## ⚡ Features
 
 - 🎨 Adorable ASCII art and terminal graphics
 - 👥 Multi-user support for seamless team collaboration
@@ -14,7 +14,7 @@ TerminalKanban brings the power of visual task management to your command line, 
 - 🛠️ Customizable workflows to fit your team's needs
 - 🔒 Secure and efficient, built with Go
 
-## Installation
+## 🛠️ Installation
 
 ```bash
 go get github.com/AbilityJLR/terminal-kanban
