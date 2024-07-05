@@ -32,6 +32,20 @@ This project and everyone participating in it is governed by the [Code of Conduc
    git clone https://github.com/AbilityJLR/terminal-kanban.git
    cd terminal-kanban
    ```
+
+## ⚠️ Reporting Issues
+If you encounter any issues, please report them here with detailed information.
+
+## 📈 Commit Message Guidelines
+Use the present tense ("Add feature" not "Added feature").
+Reference issues and pull requests liberally after the first line.
+
+## ⚖️ License
+By contributing, you agree that your contributions will be licensed under the project's MIT License.
+
+## 📖 Additional Resources
+   `CONTRIBUTING.md` file helps streamline the contribution process, making it easier for newcomers to get involved and ensuring that contributions align with the project's standards.
+
 <!--
 ## 🛠️ Installation
 
