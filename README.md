@@ -55,32 +55,24 @@ TerminalKanban brings the power of visual task management to your command line, 
 
 First off, thank you for considering contributing to our project! Here are some guidelines to help you get started.
 
-## Code of Conduct
+### Code of Conduct
 
 This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
-## How to Contribute
+### How to Contribute
+   `CONTRIBUTING.md` file helps streamline the contribution process, making it easier for newcomers to get involved and ensuring that contributions align with the project's standards.
 
-### Fork and Clone
-
-1. Fork the repository by clicking the "Fork" button.
-2. Clone the repository to your local machine:
-   ```sh
-   git clone https://github.com/AbilityJLR/terminal-kanban.git
-   cd terminal-kanban
-   ```
-
-## ⚠️ Reporting Issues
+# ⚠️ Reporting Issues
 If you encounter any issues, please report them here with detailed information.
 
-## 📈 Commit Message Guidelines
+# 📈 Commit Message Guidelines
 Use the present tense ("Add feature" not "Added feature").
 Reference issues and pull requests liberally after the first line.
 
-## ⚖️ License
+# ⚖️ License
 By contributing, you agree that your contributions will be licensed under the project's MIT License.
 
-## 📖 Additional Resources
+# 📖 Additional Resources
    `CONTRIBUTING.md` file helps streamline the contribution process, making it easier for newcomers to get involved and ensuring that contributions align with the project's standards.
 
 <!--
