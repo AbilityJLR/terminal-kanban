@@ -1,4 +1,47 @@
 # $| TerminalKanban
+![watchers](https://custom-icon-badges.demolab.com/github/watchers/AbilityJLR/terminal-kanban?logo=eye&style=social&logoColor=black)
+![](https://custom-icon-badges.demolab.com/github/stars/AbilityJLR/terminal-kanban?logo=star&style=social&logoColor=black)
+![license](https://custom-icon-badges.demolab.com/github/license/AbilityJLR/terminal-kanban?logo=law&logoColor=white)
+![](https://custom-icon-badges.demolab.com/github/issues-pr-closed/AbilityJLR/terminal-kanban?color=purple&logo=git-pull-request&logoColor=white)
+![](https://custom-icon-badges.demolab.com/github/issues-raw/AbilityJLR/terminal-kanban?logo=issue)
+![](https://custom-icon-badges.demolab.com/github/v/tag/AbilityJLR/terminal-kanban?logo=tag&logoColor=white)
+![https://go.dev/](https://godoc.org/github.com/golang/gddo?status.svg)
+
+<p align="center">
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+   <img width="25" src="https://github.com/AbilityJLR/terminal-kanban/assets/71693169/b8fd00e1-46d5-41bb-84ee-f5abd4ef0146" />
+</p>
 
 ✨ Collaborate with flair using a Kanban board right in your terminal! 🖥️
 
