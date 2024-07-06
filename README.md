@@ -1,6 +1,5 @@
 # $| TerminalKanban
-![watchers](https://custom-icon-badges.demolab.com/github/watchers/AbilityJLR/terminal-kanban?logo=eye&style=social&logoColor=black)
-![](https://custom-icon-badges.demolab.com/github/stars/AbilityJLR/terminal-kanban?logo=star&style=social&logoColor=black)
+
 ![license](https://custom-icon-badges.demolab.com/github/license/AbilityJLR/terminal-kanban?logo=law&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/github/issues-pr-closed/AbilityJLR/terminal-kanban?color=purple&logo=git-pull-request&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/github/issues-raw/AbilityJLR/terminal-kanban?logo=issue)
