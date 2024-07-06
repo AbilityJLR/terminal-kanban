@@ -60,7 +60,7 @@ First off, thank you for considering contributing to our project! Here are some 
 This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 ### How to Contribute
-   `CONTRIBUTING.md` file helps streamline the contribution process, making it easier for newcomers to get involved and ensuring that contributions align with the project's standards.
+   [`CONTRIBUTING.md`](CONTRIBUTING.md) file helps streamline the contribution process, making it easier for newcomers to get involved and ensuring that contributions align with the project's standards.
 
 # ⚠️ Reporting Issues
 If you encounter any issues, please report them here with detailed information.
@@ -73,7 +73,7 @@ Reference issues and pull requests liberally after the first line.
 By contributing, you agree that your contributions will be licensed under the project's MIT License.
 
 # 📖 Additional Resources
-   `CONTRIBUTING.md` file helps streamline the contribution process, making it easier for newcomers to get involved and ensuring that contributions align with the project's standards.
+   [`CONTRIBUTING.md`](CONTRIBUTING.md) file helps streamline the contribution process, making it easier for newcomers to get involved and ensuring that contributions align with the project's standards.
 
 <!--
 ## 🛠️ Installation
