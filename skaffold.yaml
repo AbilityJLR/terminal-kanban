@@ -1,13 +1,21 @@
-apiVersion: skaffold/v4beta11
+apiVersion: skaffold/v2alpha3
 kind: Config
+deploy:
+  kubectl:
+    manifests:
+      - ./infra/k8s/*
 metadata:
   name: terminal-kanban
 build:
+  local:
+    push: false
   artifacts:
     - image: abilityjlr/tui
       context: tui
       docker:
         dockerfile: Dockerfile
-manifests:
-  rawYaml:
-    - infra/k8s/tui-depl.yaml
+      sync:
+        manual:
+          - src: "cmd/**/*.go"
+            dest: .
+

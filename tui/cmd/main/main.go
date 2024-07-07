@@ -1,7 +1,15 @@
 package main
 
-import "github.com/AbilityJLR/terminal-kanban/internal/login"
+import (
+	"fmt"
+	"net/http"
+)
+
+func handler(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprintf(w, "hello world\n")
+}
 
 func main() {
-	login.LoginWindow()
+	http.HandleFunc("/", handler)
+	http.ListenAndServe(":3000", nil)
 }
