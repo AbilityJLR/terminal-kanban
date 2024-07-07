@@ -24,6 +24,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
    ```
    127.0.0.1 kanbanterm.dev
    ```
+   3. Exit by typing `:wq` and pressing Enter.
 
    For Windows:
    1. Open your text editor in Administrator mode.
