@@ -1,11 +1,11 @@
 # $| TerminalKanban
 
 ![license](https://custom-icon-badges.demolab.com/github/license/AbilityJLR/terminal-kanban?logo=law&logoColor=white)
-![](https://custom-icon-badges.demolab.com/github/issues-pr-closed/AbilityJLR/terminal-kanban?color=purple&logo=git-pull-request&logoColor=white)
-![](https://custom-icon-badges.demolab.com/github/issues-raw/AbilityJLR/terminal-kanban?logo=issue)
-![](https://custom-icon-badges.demolab.com/github/v/tag/AbilityJLR/terminal-kanban?logo=tag&logoColor=white)
+![issues](https://custom-icon-badges.demolab.com/github/issues-raw/AbilityJLR/terminal-kanban?logo=issue)
+![pull requests](https://custom-icon-badges.demolab.com/github/issues-pr-closed/AbilityJLR/terminal-kanban?color=purple&logo=git-pull-request&logoColor=white)
+<!--![](https://custom-icon-badges.demolab.com/github/v/tag/AbilityJLR/terminal-kanban?logo=tag&logoColor=white)
 ![https://go.dev/](https://godoc.org/github.com/golang/gddo?status.svg)
-
+-->
 <p align="center">
    <img width="25" src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" />
    <img width="25" src="https://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif" />
