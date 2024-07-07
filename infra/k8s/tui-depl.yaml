@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: tui-depl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: tui
+  template:
+    metadata:
+      labels:
+        app: tui
+    spec:
+      containers:
+        - name: tui
+          image: abilityjlr/tui
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: tui-srv
+spec:
+  selector:
+    app: tui
+  ports:
+    - name: tui
+      protocol: TCP
+      port: 3000
+      targetPort: 3000

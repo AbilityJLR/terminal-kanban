@@ -1,0 +1,13 @@
+apiVersion: skaffold/v4beta11
+kind: Config
+metadata:
+  name: terminal-kanban
+build:
+  artifacts:
+    - image: abilityjlr/tui
+      context: tui
+      docker:
+        dockerfile: Dockerfile
+manifests:
+  rawYaml:
+    - infra/k8s/tui-depl.yaml
